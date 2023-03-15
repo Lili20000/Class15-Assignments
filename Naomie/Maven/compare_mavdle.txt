@@ -1,0 +1,10 @@
+# This file compares the software tools Maven and Gradle
+
+Gratle:
+Gratle is an open tool that helps to build software. It's a high perfomance tool that is used on Java and DSL for project structure.
+Gratle suports the creation of applications and testing on a lot of platforms.
+It is a tool that is highly used with great functionality and provides a good variety of IDEs for pro users. With the amount of complexity Gradle
+contains how ever, it is almost impossible to build a software task without great expertise on the tool. 
+
+Maven:
+
