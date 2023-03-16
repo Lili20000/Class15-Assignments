@@ -7,4 +7,4 @@ It is a tool that is highly used with great functionality and provides a good va
 contains how ever, it is almost impossible to build a software task without great expertise on the tool. 
 
 Maven:
-
+Maven although similar to Gratle, is a management tool that is also mostly used on Java. And since Maven is a management tool it can also be used on other platforms and it's managed by Apache software.
