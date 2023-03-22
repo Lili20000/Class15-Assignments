@@ -8,3 +8,8 @@ contains how ever, it is almost impossible to build a software task without grea
 
 Maven:
 Maven although similar to Gratle, is a management tool that is also mostly used on Java. And since Maven is a management tool it can also be used on other platforms and it's managed by Apache software.
+Maven takes care of 2 main aspects of software development; dependency and how a software is built. It enhances management for softwares and developers.
+
+So the obvious difference between the 2 is that Gratle is a build system that uses DLS and Maven is a tool of management that is mainly used on Java. 
+Another difference is that the main point of Gradle is to add functionality to the project, while for Maven, the main point is realated to the phase of the project.
+Both Maven and Gradle provide convention over confuguration.
